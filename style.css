@@ -1,0 +1,14 @@
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.completed {
+    text-decoration: line-through;
+}
